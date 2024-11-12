@@ -1,6 +1,6 @@
 # Neoarcadia
 
-***análise de projetos de investimentos novos produtos e expansões, estimando viabilidade e retornos financeiros.***
+***análise de projetos de investimentos, novos produtos e expansões, estimando viabilidade e retornos financeiros.***
 
 *VLP (VALOR PRESENTE LÍQUIDO) > indica a diferença entre o valor presente dos fluxos de caixa esperado com base no valor inicial*
 
