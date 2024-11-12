@@ -1,13 +1,25 @@
 # Neoarcadia
 
+
 ***análise de projetos de investimentos, novos produtos e expansões, estimando viabilidade e retornos financeiros.***
 
 *VLP (VALOR PRESENTE LÍQUIDO) > indica a diferença entre o valor presente dos fluxos de caixa esperado com base no valor inicial*
 
 ****TIR (Taxa Interna de Retorno) > Taxa de retorno que faz o VLP ser zero avaliando a viabilidade do projeto****
 
+
 ![image](https://github.com/user-attachments/assets/5a11b21b-6ada-4c58-8556-d0d57c1eeaea)
 
+
+----------------------------------------------------------------------------
+
+Instalar pacotes:
+
+**pip install tkinter** > interface gráfica
+
+**pip install numpy** > computação científica
+
+**pip install scipy** > numpy~scipy
 
 ----------------------------------------------------------------------------
 
@@ -64,3 +76,6 @@ Aplicação:
 - Determinação da rentabilidade de um projeto.
 - Comparação entre projetos com diferentes características de fluxo de caixa.
 - Definição de decisões de investimento, com base na taxa de retorno do projeto.
+
+
+®
